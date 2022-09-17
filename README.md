@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrianCopley26
 - 👀 I’m interested in becoming a software developer...
-- 🌱 I’m currently learning python and django...
+- 🌱 I’m currently learning HTML, CSS, JS, and node.JS.
 - 📫 I can be contacted via email at BrianCopley26@outlook.com
 
 <!---
